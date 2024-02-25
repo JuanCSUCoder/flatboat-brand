@@ -7,7 +7,7 @@
    viewBox="0 0 1122.5197 793.70081"
    version="1.1"
    id="svg1"
-   inkscape:version="1.3.1 (91b66b0783, 2023-11-16)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    sodipodi:docname="design.svg"
    inkscape:export-filename="logo.png"
    inkscape:export-xdpi="1000"
@@ -18,7 +18,7 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
      id="namedview1"
-     pagecolor="#ffffff"
+     pagecolor="#d1d1d1"
      bordercolor="#000000"
      borderopacity="0.25"
      inkscape:showpageshadow="2"
@@ -27,15 +27,16 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.41424663"
-     inkscape:cx="627.64542"
-     inkscape:cy="242.60909"
+     inkscape:zoom="0.5858332"
+     inkscape:cx="605.12105"
+     inkscape:cy="565.86072"
      inkscape:window-width="1315"
-     inkscape:window-height="699"
+     inkscape:window-height="731"
      inkscape:window-x="51"
-     inkscape:window-y="32"
+     inkscape:window-y="312"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1">
+     inkscape:current-layer="layer1"
+     inkscape:export-bgcolor="#ffffff00">
     <inkscape:grid
        id="grid1"
        units="mm"
@@ -59,6 +60,17 @@
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <rect
+       style="fill:white;fill-opacity:1;stroke-width:0.511326"
+       id="rect1"
+       width="676.3551"
+       height="219.90327"
+       x="223.08231"
+       y="286.89877"
+       ry="102.71191"
+       inkscape:export-filename="logo.png"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
     <g
        id="g8"
        transform="matrix(2.6475367,0,0,2.6475367,145.31432,186.7152)"
